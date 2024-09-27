@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h1 align="center">Hello World, I'm Alejandro</h1>
 
-- 🌱 I’m currently learning **Python, Django, Web Development**
+- 🌱 I’m currently learning **Python and Web Development**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1](www.linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1)
 
@@ -9,7 +8,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1](www.linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1)
 
-- ⚡ Fun fact **I think I'm fun and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
