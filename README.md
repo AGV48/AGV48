@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **Python and Web Development**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1](www.linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1)
-
 - 📫 How to reach me **alejoguval08@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1](www.linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1)
