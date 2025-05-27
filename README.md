@@ -18,7 +18,7 @@
 ### ⚙️ Lenguajes y tecnologías favoritas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,mysql,postgres,python,git,github,vscode,docker,linux,css,php,html,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,mysql,postgres,python,git,github,vscode,docker,linux,css,php,html,mongodb,sqlite,bash,kali,vercel,flask,next,tailwind,figma,debian,discord,django,firebase,gmail,instagram,ubuntu,kubernetes,linkedin,npm,powershell,scala,windows," />
 </p>
 
 ---
@@ -34,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGV48&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+
 ---
 
 ### 📍 Actividad reciente
@@ -42,6 +43,23 @@
 <!--END_SECTION:activity-->
 
 ---
+
+## 🌟 Repositorios Populares
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/AGV48/wings">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AGV48&repo=wings&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AGV48/stylus">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AGV48&repo=stylus&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Encuéntrame en
 
