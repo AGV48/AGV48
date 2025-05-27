@@ -1,6 +1,16 @@
 <h1 align="center">Hey, soy AGV 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+cosas+nuev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ff1616&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+cosas+nuev" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌐 Encuéntrame en
+
+<p align="center">
+  <a href="https://linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alejoguval08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/a.gutierrez48_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -8,10 +18,10 @@
 ### 💡 Sobre mí
 
 - 🔭 Actualmente trabajando en proyectos personales y colaboraciones
-- 🌱 En constante aprendizaje: React, GraphQL, Spring Boot, Docker, PostgreSQL...
+- 🌱 En constante aprendizaje: React, Linux, Java, Docker, PostgreSQL...
 - 🛠️ Apasionado por la programación y las soluciones elegantes
 - 💬 Siempre abierto a aprender algo nuevo y ayudar a los demás
-- 📫 Contacto: **tucorreo@ejemplo.com**
+- 📫 Contacto: **alejoguval08@gmail.com**
 
 ---
 
@@ -42,14 +52,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
-
-### 🌐 Encuéntrame en
-
-<p align="center">
-  <a href="https://linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alejoguval08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
