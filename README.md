@@ -18,7 +18,7 @@
 ### ⚙️ Lenguajes y tecnologías favoritas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,graphql,postgres,python,git,github,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,mysql,postgres,python,git,github,vscode,docker,linux,css,php,html,mongodb" />
 </p>
 
 ---
@@ -41,15 +41,13 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-*Esta sección se actualiza automáticamente con tu actividad gracias a GitHub Actions.*
-
 ---
 
 ### 🌐 Encuéntrame en
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alejandro-gutierrez-vallejo-29ab462a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alejoguval08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
