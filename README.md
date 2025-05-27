@@ -1,6 +1,6 @@
 <h1 align="center">Hey, soy AGV 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+cosas+nuev" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,23 +43,6 @@
 <!--END_SECTION:activity-->
 
 ---
-
-## 🌟 Repositorios Populares
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/AGV48/wings">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AGV48&repo=wings&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AGV48/stylus">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AGV48&repo=stylus&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ### 🌐 Encuéntrame en
 
