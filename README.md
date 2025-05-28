@@ -45,14 +45,4 @@
 </p>
 
 
----
-
-### 📍 Actividad reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
----
-
 <p align="center">🚀 ¡Gracias por visitar mi perfil! 🚀</p>
