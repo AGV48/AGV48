@@ -1,6 +1,6 @@
 <h1 align="center">Hey, soy AGV 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ff1616&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apasionado+por+la+programación%C3%ADa;Siempre+aprendiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ff1616&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apasionado+por+la+programacion;Siempre+Aprendiendo" alt="Typing SVG" />
 </p>
 
 ---
