@@ -32,7 +32,11 @@
 </p>
 
 ---
+### 🏆 GitHub Trofeos
 
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=AGV48&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
