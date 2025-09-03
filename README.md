@@ -28,7 +28,7 @@
 ### ⚙️ Lenguajes y tecnologías favoritas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,mysql,postgres,python,git,github,vscode,docker,linux,css,php,html,mongodb,sqlite,bash,kali,vercel,flask,next,tailwind,figma,debian,discord,django,firebase,gmail,instagram,ubuntu,kubernetes,linkedin,npm,powershell,scala,windows," />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,mysql,postgres,python,git,github,vscode,docker,linux,css,php,html,mongodb,sqlite,bash,kali,vercel,flask,next,tailwind,figma,debian,discord,django,firebase,gmail,instagram,ubuntu,kubernetes,linkedin,npm,powershell,scala,windows,angular" />
 </p>
 
 ---
