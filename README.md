@@ -28,7 +28,7 @@
 ### ⚙️ Lenguajes y tecnologías favoritas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular, apple, azure, aws, bash, css, debian, dart, discord, django, docker, eclipse, express, figma, firebase, flask, flutter, git, github, githubactions, gmail, html, ai, instagram, java, js, kali, kubernetes, laravel, latex, linkedin, linux, maven, mongodb, mysql, nestjs, nodejs, npm, php, pnpm, postgres, postman, powershell, py, rails, react, ruby, rust, sqlite, supabase, scala, sketchup, tailwind, ubuntu, unity, vercel, visualstudio, vscode, windows, wordpress" />
+  <img src="https://skillicons.dev/icons?i=angular,apple,azure,aws,bash,css,debian,dart,discord,django,docker,eclipse,express,figma,firebase,flask,flutter,git,github,githubactions,gmail,html,ai,instagram,java,js,kali,kubernetes,laravel,latex,linkedin,linux,maven,mongodb,mysql,nestjs,nodejs,npm,php,pnpm,postgres,postman,powershell,py,rails,react,ruby,rust,sqlite,supabase,scala,sketchup,tailwind,ubuntu,unity,vercel,visualstudio,vscode,windows,wordpress" />
 </p>
 
 ---
